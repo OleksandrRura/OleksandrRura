@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Привіт! 👋 Я Олександр Рура</h1>
 
-<!--
-**OleksandrRura/OleksandrRura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Студент 3 курсу CHSTU  
+🖥 Спеціальність: Комп’ютерна інженерія  
+🔌 Освітня програма: Комп'ютерні системи та мережі  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Навички та технології
+- 💻 Основи: C/C++, Python, HTML/CSS
+- 🔧 Git, GitHub, Bash
+- 📡 Комп’ютерні мережі, маршрутизація, налаштування обладнання
+- 🛠 Робота з Windows/Linux
+
+---
+
+### 📘 Зараз вивчаю:
+- Git та командна робота
+- REST API та архітектура веб-сервісів
+- Основи backend-розробки
+
+---
+
+### 🧩 Хочу створити:
+- Pet-проєкти з мережевими інструментами
+- Власний сайт-портфоліо
+- Автоматизацію для адміністрування систем
+
+---
+
+### 📫 Як зі мною зв'язатися:
+- Telegram: [@oleksandr_rura](https://t.me/oleksandr_rura)
+- Email: oleksandr.rura@example.com *(приклад)*
+- LinkedIn: (якщо є — додамо)
+
+---
+
+### 💡 Трошки про мене:
+- 🔍 Люблю розбиратись у нових технологіях
+- 🎮 Граю в ігри, іноді пробую писати свої міні-утиліти
+- ☕ Кава + код = ідеальний день
