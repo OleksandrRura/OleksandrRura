@@ -10,8 +10,10 @@
 
 [![Chadow's LeetCode](https://img.shields.io/badge/LeetCode-chadow-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/chadow/)
 
+### Сodewars Stats:
 <a href="https://www.codewars.com/users/Shadow_GG">
   <img src="https://www.codewars.com/users/Shadow_GG/badges/small"/>
 </a>
-<br>
+
+### LeetCode Stats:
 <img src="https://leetcard.jacoblin.cool/chadow?theme=light&font=Karla" alt="LeetCode Stats">
