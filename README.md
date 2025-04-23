@@ -1,10 +1,10 @@
-<h1> Hi, I`m Oleksandr Rura </h1>
+# Hi, I'm Oleksandr 👋
 
-<h3>
-  🎓 3rd year student at CHDTU   
-  <br>💻 Computer Engineering  
-  <br>🔌 Computer Systems & Networks
-</h3>
+### 🎓 3rd year student at CHDTU  
+💻 Computer Engineering  
+🔌 Computer Systems & Networks
+
+---
 
 🔗 Social Links
 
