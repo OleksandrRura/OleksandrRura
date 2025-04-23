@@ -14,4 +14,4 @@
   <img src="https://www.codewars.com/users/Shadow_GG/badges/small"/>
 </a>
 <br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/chadow?theme=light&font=Karla) 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/chadow?theme=light&font=Karla) 
