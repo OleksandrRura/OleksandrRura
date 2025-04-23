@@ -1,12 +1,10 @@
 # Hi, I'm Oleksandr 👋
 
----
-
 ### 🎓 3rd year student at CHDTU  
 💻 Computer Engineering  
 🔌 Computer Systems & Networks
 
----
+-
 
 🔗 Social Links
 
