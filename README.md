@@ -1,4 +1,4 @@
-# Hi, I'm Oleksandr 👋
+# Hi, I'm Oleksandr Rura👋
 
 ### 🎓 3rd year student at CHDTU  
 💻 Computer Engineering  
