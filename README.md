@@ -13,3 +13,4 @@
 <a href="https://www.codewars.com/users/Shadow_GG">
   <img src="https://www.codewars.com/users/Shadow_GG/badges/small"/>
 </a>
+![LeetCode Stats](https://leetcard.jacoblin.cool/chadow?theme=light&font=Karla)
