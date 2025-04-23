@@ -34,6 +34,3 @@
 
 ### 🧠 LeetCode Stats:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/chadow?theme=light&font=Karla)](https://leetcode.com/u/chadow/)
-
-- [Certificate 1](https://github.com/OleksandrRura/certificates-/blob/main/Oleksandr%20Rura.pdf) - Назва курсу 1
-
