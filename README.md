@@ -12,6 +12,13 @@
 
 ---
 
+### 🛠️ Skills & Technologies
+- Languages: Java, Python, C++, JavaScript, HTML, CSS
+- Databases: PostgreSQL, MySQL
+- Networking: TCP/IP, HTTP, DNS, DHCP, Network Security, Routing & Switching
+
+---
+
 ### Сodewars Stats:
 <a href="https://www.codewars.com/users/Shadow_GG">
   <img src="https://www.codewars.com/users/Shadow_GG/badges/small"/>
