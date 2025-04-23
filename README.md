@@ -5,6 +5,7 @@
 🔌 Computer Systems & Networks
 
 ---
+
 ### 🔗 Social Links
 
 [![Telegram](https://img.shields.io/badge/Telegram-rx0U5r44-229ED9?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/rx0U5r44)
@@ -13,16 +14,22 @@
 ---
 
 ### 🛠️ Skills & Technologies
-- Languages: Java, HTML, CSS, JavaScript, Python, C++
-- Databases: PostgreSQL, MySQL
-- Networking: TCP/IP, HTTP, DNS, DHCP, Network Security, Routing & Switching
+
+#### 💻 Languages
+- Java, HTML, CSS, JavaScript, Python, C++
+
+#### 🗄️ Databases
+- PostgreSQL, MySQL
+
+#### 🌐 Networking
+- TCP/IP, HTTP, DNS, DHCP, Network Security, Routing & Switching
 
 ---
 
-### Сodewars Stats:
+### 🧑‍💻 Codewars Stats:
 <a href="https://www.codewars.com/users/Shadow_GG">
   <img src="https://www.codewars.com/users/Shadow_GG/badges/small"/>
 </a>
 
-### LeetCode Stats:
-<img src="https://leetcard.jacoblin.cool/chadow?theme=light&font=Karla" alt="LeetCode Stats">
+### 🧠 LeetCode Stats:
+[![LeetCode Stats](https://leetcard.jacoblin.cool/chadow?theme=light&font=Karla)](https://leetcode.com/u/chadow/)
