@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/Telegram-@oleksandr_rura-blue?logo=telegram">
 
-[![KnlnKS's LeetCode stats](https://leetcode.com/u/chadow/)](https://github.com/KnlnKS/leetcode-stats)
+[![Chadow's LeetCode](https://img.shields.io/badge/LeetCode-chadow-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/chadow/)
 
 <a href="https://www.codewars.com/users/Shadow_GG">
   <img src="https://www.codewars.com/users/Shadow_GG/badges/small"/>
