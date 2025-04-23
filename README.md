@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ Skills & Technologies
-- Languages: Java, Python, C++, JavaScript, HTML, CSS
+- Languages: Java, HTML, CSS, JavaScript, Python, C++
 - Databases: PostgreSQL, MySQL
 - Networking: TCP/IP, HTTP, DNS, DHCP, Network Security, Routing & Switching
 
