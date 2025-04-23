@@ -10,7 +10,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-rx0U5r44-229ED9?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/rx0U5r44)
 [![Discord](https://img.shields.io/badge/Discord-Olekssandr%237833-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/1031148753371017307)
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-blue?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-your.email@example.com-blue?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ruraoleksandr938@gmail.com)
 
 ---
 
